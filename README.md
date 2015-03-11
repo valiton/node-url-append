@@ -1,4 +1,4 @@
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+#  [![NPM version][npm-image]][npm-url] ![url-append](https://api.travis-ci.org/valiton/node-url-append.png "url-append") [![Dependency Status](https://david-dm.org/valiton/node-url-append.svg)](https://david-dm.org/valiton/node-url-append)
 
 > Append (additional) URL-Params to a given url
 
