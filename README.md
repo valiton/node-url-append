@@ -40,11 +40,3 @@ urlAppend('http://www.example.com?param1=param2', 'param2=value2&param3=value3')
 ## License
 Copyright (c) 2015 Valiton GmbH
 Licensed under the MIT license.
-
-
-[npm-image]: https://badge.fury.io/js/url-append.svg
-[npm-url]: https://npmjs.org/package/url-append
-[travis-image]: https://travis-ci.org/valiton/url-append.svg?branch=master
-[travis-url]: https://travis-ci.org/valiton/url-append
-[daviddm-image]: https://david-dm.org/valiton/url-append.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/valiton/url-append
