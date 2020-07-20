@@ -1,6 +1,6 @@
 {
   "name": "url-append",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Append (additional) URL-Params to a given url",
   "homepage": "https://github.com/valiton/node-url-append",
   "author": {
